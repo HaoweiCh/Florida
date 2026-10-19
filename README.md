@@ -4,12 +4,6 @@ Follow [FRIDA](https://github.com/frida/frida) upstream to automatic patch and b
 
 跟随 FRIDA 上游自动修补程序，并为 Android 构建反检测版本的 frida-server。
 
-**Hint: Don't fork this repository**
-
-## Download
-
-[Latest Release](https://github.com/Ylarod/Florida/releases/latest)
-
 ## References
 
 - [https://github.com/hluwa/Patchs](https://github.com/hluwa/Patchs)
